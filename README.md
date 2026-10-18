@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020108,35:1e1b4b,70:7c3aed,100:06b6d4&height=220&section=header&text=0xFE1C%20%C2%B7%20FELIX&fontSize=42&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20%C2%B7%20UI/UX%20Designer%20%C2%B7%203D%20(Blender)%20%C2%B7%202D%20Artist&descSize=16&descAlignY=58&fontColor=ffffff&stroke=22d3ee&strokeWidth=1" width="100%" alt="Header" />
 
 <p align="center">
-  <a href="https://0xfe1c.github.io/0xFE1C/">
+  <a href="https://0xfe1c.github.io/">
     <img src="https://img.shields.io/badge/LIVE_ORBIT-VISIT_PORTFOLIO-06b6d4?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Orbit" />
   </a>
   <a href="mailto:0xFE1C@proton.me">
@@ -33,7 +33,7 @@ PILOT IDENTITY  : Felix (Alias: 0xFE1C)
 BASE OF ORBIT   : Jakarta, Indonesia · 6°12'S 106°49'E
 MISSION STATUS  : Undergraduate S1 IT Student & Independent Software Engineer
 ARSENAL DOMAINS : Web · Mobile · Desktop · Fullstack · UI/UX · 3D Blender · 2D Art
-PORTFOLIO URL   : https://0xfe1c.github.io/0xFE1C/
+PORTFOLIO URL   : https://0xfe1c.github.io/
 ================================================================================
 ```
 
@@ -113,7 +113,7 @@ Experience the full interactive space portfolio featuring a real-time relativist
 
 - **Encrypted Email**: [0xFE1C@proton.me](mailto:0xFE1C@proton.me)
 - **GitHub**: [@0xFE1C](https://github.com/0xFE1C)
-- **Live Orbit**: [0xfe1c.github.io/0xFE1C](https://0xfe1c.github.io/)
+- **Live Orbit**: [0xfe1c.github.io](https://0xfe1c.github.io/)
 - **Coordinates**: Jakarta, Indonesia (UTC+7)
 
 <div align="center">
